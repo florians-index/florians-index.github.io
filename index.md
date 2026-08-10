@@ -1,4 +1,5 @@
 ---
+layout: default
 nav_exclude: "true"
 ---
 Welcome to Florian's Index! Your one-stop shop for speedrun guides and tutorials for Super Mario Bros. Wonder!
