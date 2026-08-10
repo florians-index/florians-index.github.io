@@ -4,13 +4,13 @@ a {
   text-decoration: none;
 }
 
-/* Wonder gradient on hover */
+/* Gradient hover for normal/content links */
 a:hover,
 a:focus {
   background: linear-gradient(
     to bottom,
     #29a9ff 0%,
-    #ffffff 50%,
+    #ffffff 75%,
     #ff1493 100%
   );
 
@@ -21,19 +21,21 @@ a:focus {
   text-decoration: none;
 }
 
-/* Just the Docs sidebar links */
-.nav-list-link:hover,
-.nav-list-link:focus {
+/* Gradient hover for Just the Docs sidebar links */
+.nav-list .nav-list-item > .nav-list-link:hover,
+.nav-list .nav-list-item > .nav-list-link:focus {
+  color: transparent !important;
+
   background: linear-gradient(
     to bottom,
     #29a9ff 0%,
     #ffffff 50%,
     #ff1493 100%
-  );
+  ) !important;
 
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  background-clip: text !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
 
   text-decoration: none;
 }
