@@ -6,5 +6,24 @@ url: https://notCodek.github.io/TestProjectWonderTut
 
 color_scheme: dark
 
+markdown: kramdown
+
+collections:
+  general:
+    permalink: "/:collection/:path/"
+    output: true
+
+  any_percent_nmg:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    general:
+      name: General
+
+    any_percent_nmg:
+      name: Any% No Major Glitches
+
 aux_links:
-  Site Repository: https://github.com/notCodek/TestProjectWonderTut
+  "Site Repository": "https://github.com/notCodek/TestProjectWonderTut"
