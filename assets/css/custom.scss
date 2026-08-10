@@ -1,0 +1,42 @@
+---
+---
+
+@font-face {
+  font-family: "DIN 2014 Demi";
+  src: url("{{ '/assets/fonts/DIN 2014 Demi.ttf' | relative_url }}")
+       format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Use the Wonder in-game font throughout the site */
+body,
+.site-title,
+.nav-list,
+.main-content,
+.aux-nav {
+  font-family: "DIN 2014 Demi", sans-serif;
+}
+
+/* Wonder-style blue-to-hot-pink links */
+a {
+  background: linear-gradient(
+    to bottom,
+    #67b3ff 0%,
+    #ff8dca 100%
+  );
+
+  -webkit-background-clip: text;
+  background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+
+  text-decoration: none;
+}
+
+/* Keep links clearly interactive */
+a:hover,
+a:focus {
+  text-decoration: underline;
+}

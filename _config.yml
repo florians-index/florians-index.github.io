@@ -6,6 +6,9 @@ url: https://notCodek.github.io/TestProjectWonderTut
 
 color_scheme: dark
 
+sass:
+  style: compressed
+
 markdown: kramdown
 
 collections:
