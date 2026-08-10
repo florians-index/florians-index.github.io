@@ -13,7 +13,7 @@ collections:
     permalink: "/:collection/:path/"
     output: true
 
-  any_percent_nmg:
+  any_nmg:
     permalink: "/:collection/:path/"
     output: true
 
@@ -22,7 +22,7 @@ just_the_docs:
     general:
       name: General
 
-    any_percent_nmg:
+    any_nmg:
       name: Any% No Major Glitches
 
 aux_links:
