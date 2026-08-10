@@ -1,30 +1,3 @@
-@font-face {
-  font-family: "DIN 2014 Demi";
-  src: url("{{ '/assets/fonts/DIN 2014 Demi.ttf' | relative_url }}") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
 body {
-  font-family: "DIN 2014 Demi", sans-serif;
-}
-
-a {
-  background: linear-gradient(
-    to bottom,
-    #56aaff 0%,
-    #ff6cba 100%
-  );
-
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-
-  text-decoration: none;
-}
-
-a:hover,
-a:focus {
-  text-decoration: underline;
+  background: red !important;
 }
