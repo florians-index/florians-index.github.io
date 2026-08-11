@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Basic Game Info
+title: Basic Game Information
 nav_order: "1"
 ---
-# Basic Game Info
+# Basic Game Information
 
 This section is here to explain some small but important details about the SMBW speedrun that you will need to be aware of if you want to succeed in this game.
 
