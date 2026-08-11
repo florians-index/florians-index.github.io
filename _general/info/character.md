@@ -44,6 +44,7 @@ However, these characters do see some use at every level of play depending on th
 
 Nabbit and the Yoshi's serve different purposes, so we'll cover them separately
 
+
 #### Nabbit
 
 Nabbit plays almost identical to base "Normal Mode" characters without a power-up, with no special abilities. However, his specialty is that *he takes no knockback from damaging hazards of levels*.
@@ -53,6 +54,7 @@ This means he is able to damage-boost through tough sections with ease, which ma
 In the **100% category**, runners of all levels switch to Nabbit in the end-game during the Special World Gauntlet due to the usefulness of damage-boosts in levels like World 3 and 5 Special. Recently, it was found that *switching to Nabbit for 100% is actually slower*, but it is MUCH harder to execute, so it is not recommended to learn unless you strive to be at the top.
 
 Nabbit also has a benefit in Badge Challenges as some typically require you to use a Mushroom so you can break Brick Blocks, but Nabbit does not require a Mushroom to do so, which makes him faster in specific ILs such as [Dolphin Kick I](https://www.speedrun.com/smbw/runs/yo0ve55y)
+
 
 #### Yoshi
 
