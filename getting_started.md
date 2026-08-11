@@ -17,7 +17,7 @@ You can find the full list of game rules [here](https://www.speedrun.com/smbw?h=
 
 For the most part, our ruleset is extremely standard. We use RTA timing (except for our longer categories), which means that the timer cannot be paused at any time and runs are completed in one sitting. You can't use multiplayer (unless stated otherwise), online mode enabled, or assist mode. "Easy Mode" characters such as Nabbit and Yoshi are completely legal to use, however.
 
-However, something important to mention is that **we have outright banned emulation for the leaderboard.** You will have to play the game on an official release of SMBW as well as a Nintendo Switch 1 or Switch 2. Information on the differences between consoles, digital/physical, and game versions can be found [here](https://notcodek.github.io/TestProjectWonderTut/game_versions).
+However, something important to mention is that **we have outright banned emulation for the leaderboard.** You will have to play the game on an official release of SMBW as well as a Nintendo Switch 1 or Switch 2. Information on the differences between consoles, digital/physical, languages, and game versions can be found [here](https://notcodek.github.io/TestProjectWonderTut/version_differences).
 
 The last main thing to mention is that **all runs MUST be recorded (with audio) in order to be verified!** Read the following section if need assistance doing so.
 
