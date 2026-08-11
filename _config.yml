@@ -17,6 +17,10 @@ collections:
     permalink: "/:collection/:path/"
     output: true
 
+  community:
+    permalink: "/:collection/:path/"
+    output: true
+
 just_the_docs:
   collections:
     general:
@@ -25,5 +29,9 @@ just_the_docs:
     any_nmg:
       name: Any% No Major Glitches
 
+    community:
+      name: Community
+
 aux_links:
   "Site Repository": "https://github.com/notCodek/TestProjectWonderTut"
+  "Game Leaderboard": "https://www.speedrun.com/smbw"
