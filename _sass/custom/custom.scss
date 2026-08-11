@@ -39,3 +39,20 @@ a:focus {
 
   text-decoration: none;
 }
+
+/* Auxiliary links */
+.aux-nav a:hover,
+.aux-nav a:focus {
+  background: linear-gradient(
+    to bottom,
+    #29a9ff 0%,
+    #ffffff 50%,
+    #ff1493 100%
+  );
+
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  text-decoration: none;
+}
