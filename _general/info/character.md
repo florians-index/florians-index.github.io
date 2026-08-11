@@ -7,7 +7,7 @@ permalink: /character
 ---
 # Character Choice
 
-![]({{'/assets/images/info/css.png' | relative_url}})
+![]({{ '/assets/images/info/css.png' | relative_url }})
 
 There is a total of 12 characters you can choose to play as in Wonder, 13 on the Switch 2 Edition (S2E).
 
