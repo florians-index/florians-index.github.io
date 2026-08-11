@@ -2,6 +2,7 @@
 layout: default
 title: Basic Game Information
 nav_order: "1"
+permalink: /info
 ---
 # Basic Game Information
 

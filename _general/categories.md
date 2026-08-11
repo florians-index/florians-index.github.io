@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Categories
+title: Full-Game Categories
 nav_order: "2"
+permalink: /categories
 ---
 
