@@ -13,7 +13,7 @@ collections:
     permalink: "/:collection/:path/"
     output: true
 
-  any_nmg:
+  nmg:
     permalink: "/:collection/:path/"
     output: true
 
@@ -26,7 +26,7 @@ just_the_docs:
     general:
       name: General
 
-    any_nmg:
+    nmg:
       name: Any% No Major Glitches
 
     community:
