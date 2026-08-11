@@ -48,5 +48,7 @@ You can find HDMI capture cards [for very cheap if you know where to look](https
 If you want to invest in a higher quality capture card, we'll list some below that you can choose from. Feel free to do your own research as well! Just make sure that you're looking for a capture card that can ***record and passthrough at least 1080p60 for the best results***
 
 [EVGA XR1 Pro](https://www.amazon.com/dp/B09N55K5FG?lv=shuf&_encoding=UTF8&social_share=cm_sw_r_cp_ud_dp_5M7NVCKAFCEB61J2MHJ8&channelId=751&plpRedirect=mhFallback&th=1)
+
 [AVerMedia Capture Card](https://www.amazon.com/dp/B0F9FN7PYY?ref=cm_sw_r_cp_ud_dp_SARY71S3F68SRHAJTPPJ&ref_=cm_sw_r_cp_ud_dp_SARY71S3F68SRHAJTPPJ&social_share=cm_sw_r_cp_ud_dp_SARY71S3F68SRHAJTPPJ&th=1)
+
 [Elgato Game Capture Neo](https://www.amazon.com/Elgato-Game-Capture-Neo-Passthrough/dp/B0CVYKQNFH?ref_=ast_sto_dp)
