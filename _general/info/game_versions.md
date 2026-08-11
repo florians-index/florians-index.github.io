@@ -33,7 +33,7 @@ Another benefit of playing on Switch 2 is that you don't have to worry about **s
 
 It is important to note that when we are comparing Switch 1 vs. Switch 2, we are doing so using the ***Switch 1 Edition on Switch 2***, which is important to mention due to Switch 2 Edition's changes...
 
-### Switch 2 Edition
+#### Switch 2 Edition
 On March 26th 2026, the Switch 2 Edition (S2E) of SMBW was released, which added new content and improvements for casual players.
 
 For starters, we have S2E exclusive categories on speedrun.com, including:
