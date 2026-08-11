@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Versions and Languages
+title: Version Differences
 nav_order: "1"
 parent: Basic Game Information
-permalink: /versions
+permalink: /version_differences
 ---
