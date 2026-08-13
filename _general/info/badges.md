@@ -5,6 +5,8 @@ nav_order: "5"
 parent: Basic Game Information
 permalink: /badges
 ---
+# Changing Badges
+
 Badges are incredibly important in SMBW, as they are what separate this game from the other games in the 2D Mario series. Badges can drastically change how some levels are played, and there is not one badge that is faster for every level. As such, every category has you swapping badges around to save the most time.
 
 **In the intro loading screen for each level, the game gives you an opportunity to swap your badge by pressing the R button.** A massive benefit to this is that ***if you swap badges fast enough, you won't lose ANY time as the game is still loading the level.*** 
@@ -17,7 +19,7 @@ Because swapping badges loses no time when loading into a level, that means **we
 
 There are numerous prompts throughout the run that ask you if you want to change badges, and it is imperative that you answer ***No*** to any of these, even if you are switching to that badge in the next level. This is because there is a swapping animation that plays that **loses 2s** when you click Yes.
 
-![]({{ '/assets/images/info/badgeyes.png' | relative_url }})
+![]({{ '/assets/images/info/badgeyes.gif' | relative_url }})
 
 The only instance where you swap badges outside of level intros is in the **100%** category, where you can avoid these "badge equip" prompts after Badge Challenges if you *currently have the badge from that challenge equipped.* For example, having the Jet Run badge equipped after completing Expert Badge Challenge: Jet Run II will result in Prince Florian not asking you to swap badges.
 
