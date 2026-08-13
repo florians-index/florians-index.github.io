@@ -13,7 +13,7 @@ This answer is different across 2D Mario games, but for SMBW... the answer is wh
 
 When you grab the flagpole, you get a rating depending on where you grabbed it. It starts at Good, and as you grab higher you get: Great, Super, Fantastic, Excellent, Incredible, and if you grab the top, you get the gold flag and the Wonderful rating.
 
-As long as you grab the flagpole with a Good, Great, or Super rating, *you will leave the level the fastest.* In other words: ***grab the bottom third of the flagpole.**
+As long as you grab the flagpole with a Good, Great, or Super rating, *you will leave the level the fastest.* In other words: ***grab the bottom third of the flagpole.***
 
 After that, you will lose more and more time depending on how high you grabbed it. The timeloss is as follows:
 
