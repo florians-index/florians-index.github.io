@@ -15,30 +15,38 @@ You can find the questions and their corresponding answers in the table below!
 <details>
 <summary>How did you compete with Wiggler?</summary>
 
-Race
+**Race**
 
 </details>
+
+<br>
 
 <details>
 <summary>How many badges do you have?</summary>
 
-16
+**16**
 
 </details>
+
+<br>
 
 <details>
 <summary>How many coins will net you a 1-Up?</summary>
 
-100
+**100**
 
 </details>
+
+<br>
 
 <details>
 <summary>How many flower coins does it take to buy a 1-Up Mushroom at a Poplin Shop?</summary>
 
-5
+**5**
 
 </details>
+
+<br>
 
 <details>
 <summary>How many Goombas have you defeated?</summary>
@@ -47,6 +55,8 @@ The Goomba question is notorious for annoying runners as it is the only question
 
 </details>
 
+<br>
+
 <details>
 <summary>How many standees do you have?</summary>
 
@@ -54,150 +64,192 @@ The Standee question is easy in **Any%**, being ***12*** as that is the default 
 
 </details>
 
+<br>
+
 <details>
 <summary>How many Wonder Seeds do you have from the Fungi Mines?</summary>
 
-7/3 (**100%/Any%**)
+**7/3 (100%/Any%)**
 
 </details>
+
+<br>
 
 <details>
 <summary>The expert you chased in the Shining Falls Midway Trial was an expert at what?</summary>
 
-Jumping
+**Jumping**
 
 </details>
+
+<br>
 
 <details>
 <summary>What are the controls for a ground pound?</summary>
 
-ZL/Down in midair
+**ZL/Down in midair**
 
 </details>
+
+<br>
 
 <details>
 <summary>What can you do by pressing Down/L?</summary>
 
-Ground Pound
+**Ground Pound**
 
 </details>
+
+<br>
 
 <details>
 <summary>What can you do by pressing X?</summary>
 
-Greetings
+**Greetings**
 
 </details>
+
+<br>
 
 <details>
 <summary>What can you do while in Bubble form?</summary>
 
-Bubble Jumps
+**Bubble Jumps**
 
 </details>
+
+<br>
 
 <details>
 <summary>What can you do while in Elephant form?</summary>
 
-Spray
+**Spray**
 
 </details>
+
+<br>
 
 <details>
 <summary>What can you drill into while in Drill form?</summary>
 
-Ceilings
+**Ceilings**
 
 </details>
+
+<br>
 
 <details>
 <summary>What coins do Poplin Shops accept?</summary>
 
-Flower Coins
+**Flower Coins**
 
 </details>
+
+<br>
 
 <details>
 <summary>What does a Blewbird blow?</summary>
 
-Arrows
+**Arrows**
 
 </details>
+
+<br>
 
 <details>
 <summary>What flower takes you into the sky?</summary>
 
-Propeller Flower
+**Propeller Flower**
 
 </details>
+
+<br>
 
 <details>
 <summary>What happens if you touch a Hoppo?</summary>
 
-You get pushed
+**You get pushed**
 
 </details>
+
+<br>
 
 <details>
 <summary>What world can you see north of the Petal Isles?</summary>
 
-Fluff-Puff Peaks
+**Fluff-Puff Peaks**
 
 </details>
+
+<br>
 
 <details>
 <summary>What's the name of the world you're currently in?</summary>
 
-Fungi Mines
+**Fungi Mines**
 
 </details>
+
+<br>
 
 <details>
 <summary>What's this course's difficulty?</summary>
 
-3 Star
+**3 Star**
 
 </details>
+
+<br>
 
 <details>
 <summary>Where did you take on Master Poplin's trials?</summary>
 
-Shining Falls
+**Shining Falls**
 
 </details>
+
+<br>
 
 <details>
 <summary>Which Badge Challenge is in the Petal Isles?</summary>
 
-Dolphin Kick
+**Dolphin Kick**
 
 </details>
+
+<br>
 
 <details>
 <summary>Which badge do you have equipped?</summary>
 
-Jet Run
+**Jet Run**
 
 </details>
+
+<br>
 
 <details>
 <summary>Which can you buy at Poplin Shops?</summary>
 
-Wonder Seeds
+**Wonder Seeds**
 
 </details>
+
+<br>
 
 <details>
 <summary>Who is Bowser's son?</summary>
 
-Bowser Jr.
+**Bowser Jr.**
 
 </details>
+
+<br>
 
 <details>
 <summary>Who's the super-important person from the Flower Kingdom who's with you on your adventure?</summary>
 
-Prince Florian
+**Prince Florian**
 
 </details>
 
