@@ -67,3 +67,29 @@ In the **Any% category**, picking a Yoshi as your second player is the optimal c
 In the **100% category**, Yoshi is swapped to for a *singular* level, which is **Expert Badge Challenge: Invisibility II** in World 4. Yoshi can use his tongue to bypass a lot of the waiting around that is typically required for the Bulrushes to do open pathways, so swapping to Yoshi saves a considerable amount of time here, even factoring in the time it takes to swap. 
 
 This means that **some characters *technically* have an advantage in 100%, as depending on where the character is located on the Character Select Screen, it takes more/less time to swap to a Yoshi.** This timesave/loss is minimal however (maybe a few frames), so don't feel pressured to play as a character you don't want to!
+
+## Character Blocks
+
+While the individual characters serve zero competitive advantage over one another, there is one (albeit minor) mechanic that *will* differ depending on your character choice that you should be made aware of.
+
+Throughout the game, there are **hidden blocks that can only be seen by whatever character is depicted on the block.**
+
+![Images obtained from MarioWiki.com]({{ '/assets/images/info/charblock.png' | relative_url }})
+
+These blocks can contain anything from yellow coins, flower coins, Wonder Tokens, and even power-ups!
+
+The most important thing to note is that ***while not every character can SEE the block at first, EVERY character can HIT the block, which then makes the block tangible no matter your character choice.***
+
+For example, if you are playing as Mario, you are able to activate every single character hidden block, but you are only able to see and interact with a Mario block before activating it.
+
+So what does that mean for your character choice? Well, some character blocks being tangible before activation can *slightly* change how you navigate a level to avoid them.
+
+For example, this hidden Yellow Toad block in KnuckleFest is in the way of your typical movement if you play as him, but is a non-issue for every other character, so make sure to keep note of this if you enjoy running with Yellow Toad.
+
+![]({{ '/assets/images/info/ytoadknucklefest.png' | relative_url }})
+
+There is one more notable example to bring up, and that is these two Daisy blocks in Search Party: Item Park. These specifically change the way you have to do the ending of this level if you want to do it the fastest way.
+
+![]({{ '/assets/images/info/daisyitempark.png' | relative_url }})
+
+These are not the only two examples of intrusive character blocks, but are definitely the most notable. Just keep these blocks in mind when learning the game with your character and it'll be no issue. 
