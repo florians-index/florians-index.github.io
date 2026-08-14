@@ -22,7 +22,7 @@ You must reach the speed that lets you skid in order for this to work, which is 
 The time save for each fast accel is variable depending on how optimal you execute it, and your current badge. At maximum, they save the following amounts:
 - Normal: 0.06s
 - Fast Dash: **0.26s**
-- Jet Run: 0.06s
+- Jet Run: 0.00s
 
 As you can see, for normal badges, it hardly makes a difference. Remember, these are the maximum timesaves when the fast accels are done *optimally*, which is quite difficult. Most of the time, attempting to execute these will either tie or lose time to accelerating normally.
 
