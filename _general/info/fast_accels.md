@@ -19,7 +19,7 @@ To be more exact, here is how to execute an optimal fast accel:
 
 You must reach the speed that lets you skid in order for this to work, which is where the 40f comes from. If you tap backwards earlier, you won't get the skid and you will **lose** time, so *it is important to time your skid LATER rather than EARLIER.*
 
-The time save for each fast accel is variable depending on how optimal you execute it, and your current badge. At maximum, they save the following amounts
+The time save for each fast accel is variable depending on how optimal you execute it, and your current badge. At maximum, they save the following amounts:
 - Normal: 0.06s
 - Fast Dash: **0.26s**
 - Jet Run: 0.06s
