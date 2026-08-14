@@ -36,9 +36,15 @@ Jet Run IBJs can be pretty tricky to get the hang of, especially if you're used 
 
 Below is a video demonstrating different IBJ chains with both no badge and Jet Run that you can use as a reference
 
-<video controls width="100%">
-  <source src="{{ '/assets/videos/ibjcomp.mp4' | relative_url }}" type="video/mp4">
-</video>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/6VfWz-Gt6CE"
+  title="Speedrun demonstration"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 #### Bubble Ladder
 

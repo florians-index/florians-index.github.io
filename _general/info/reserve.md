@@ -13,7 +13,7 @@ If you switch to a new power-up when already wearing a different power-up, your 
 
 For example, if you have the Elephant form equipped currently, with a Bubble Flower in reserve, and then touch a Drill Mushroom, you will turn into Drill form and the Elephant Fruit will overwrite the Bubble Flower that was in your reserve initially.
 
-However, *there is a hidden trick you can do to change this behavior.* If you ***hold the A button to summon your reserve balloon as you collect a new power-up, your reserved item will stay the same and will NOT be replaced**.* This is referred to as a **Reserve Cancel.**
+However, *there is a hidden trick you can do to change this behavior.* If you ***hold the A button to summon your reserve balloon as you collect a new power-up, your reserved item will stay the same and will NOT be replaced***. This is referred to as a **Reserve Cancel**.
 
 This adds a new layer to this game's power-up management, as **Reserve Cancels** effectively delete your currently equipped power-up and allows you to equip a new power-up without worrying about overwriting your reserve.
 
