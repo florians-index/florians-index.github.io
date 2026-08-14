@@ -19,7 +19,7 @@ Despite the animation of starting it up, ***ground pounding into vertical pipes 
 
 This is especially important in Elephant form, where the normal pipe animation is slower.
 
-Below is a comparison showcasing the differences between the two, with and without Elephant.
+Below is a loose comparison showcasing the differences between the two.
 
 <video controls width="100%">
   <source src="{{ '/assets/videos/pipecomp.mp4' | relative_url }}" type="video/mp4">
