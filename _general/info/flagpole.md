@@ -30,3 +30,9 @@ It is important to note that **getting the gold flag in every level is REQUIRED 
 While we currently do not have exact measurements for where each rating is, you can use this image as a reference for how high you can grab the flagpole and still lose no time. As long as you aim anywhere in the bottom third, you are good to go!
 
 ![]({{ '/assets/images/info/flagpole.png' | relative_url }})
+
+## IMPORTANT NOTE WITH ELEPHANT
+
+Something important to remember is that you **always** want to empty out your trunk before you grab the flagpole as Elephant.
+
+If you have water in your trunk when you grab the flagpole, there is an additional animation of your character watering the Poplin before leaving the level, which loses **40 frames**.
