@@ -24,9 +24,10 @@ There is a total of 12 characters you can choose to play as in Wonder, 13 on the
 These characters can take damage, *however they are able to use all of the incredible power-ups this game has to offer*, which makes them **much faster than the "Easy Mode" characters for most content**. And to top it off...
 
 ***All of these characters play exactly the same, with no competitive advantage over each other!***
-(Technically, the Toad characters hold objects one pixel lower than the human characters, but this has *zero* impact on the game as far as we are aware)
 
 This means you can pick your favorite to use for practice, ILs, comparisons, or full-game runs. How wonderful!
+
+(Technically, the Toad characters hold objects one pixel lower than the human characters, but this has zero impact on gameplay as far as we are currently aware.)
 
 ## Easy Mode Characters
 
