@@ -26,7 +26,7 @@ The time save for each fast accel is variable depending on how optimal you execu
 
 As you can see, for normal badges, it hardly makes a difference. Remember, these are the maximum timesaves when the fast accels are done *optimally*, which is quite difficult. Most of the time, attempting to execute these will either tie or lose time to accelerating normally.
 
-For Jet Run, this technique is completely useless, as one of the benefits of the badge is that you accelerate *practically* instantly anyway.
+For Jet Run, this technique is relatively useless, as one of the benefits of the badge is that you accelerate *practically* instantly anyway. Fast accels with Jet Run *do* technically save a very small amount of in-game units, but for all intents and purposes, it does nothing.
 
 For Fast Dash, however, **fast accels make a considerable difference, saving 0.11-0.16s per acceleration with average execution.** If you plan to run Any%, No Major Glitches with the Fast Dash route, or some specific ILs, getting this trick down is essential to shattering your PBs. 
 
@@ -44,8 +44,8 @@ You can watch this video tutorial by *Smudey* that explains fast accelerations a
 
 #### TAS Accel
 
-While Jet Run can not do fast accels in the typical way, there *is* an exclusive version of a fast accel that works only with Jet Run, referred to as a **TAS Accel**.
+While Jet Run can not do fast accels in the typical way, there *is* an version of a fast accel that works with every badge including Jet Run, referred to as a **TAS Accel**.
 
 The inputs for doing so are strict, requiring the following inputs to be done frame perfectly: *Left, Right+Crouch, Right*
 
-These inputs do not seem too hard on paper, but the truth of the matter is that these TAS Accels save *less than a frame* so they are **absolutely not viable for full-game categories**.
+These inputs do not seem too hard on paper, but the truth of the matter is that these TAS Accels save **0.033s** so they are **absolutely not viable for full-game categories**.

@@ -20,7 +20,9 @@ The premise of inputting an IBJ is very straightforward:
 
 Doing an IBJ can be easier or harder depending on your equipped badge, and your timing of your second (and beyond) bubble changes how much height you gain for each bubble jump.
 
-The general idea is that the *earlier* you shoot your next bubble, the higher your next bubble jump will go, in exchange for making it slightly more strict to make.
+The general idea is that the *earlier* you shoot your next bubble, the higher your next bubble jump will go, in exchange for making it slightly more strict to make. Conversely, timing your bubble shot right before you bounce on the previous bubble will make it much easier to land on the next one, but you won't get much height gain.
+
+IBJs do actually *lose* time to do without Jet Run (especially with Fast Dash) but they are required for specific strats so they are still extremely useful to practice and get down.
 
 #### How to Practice
 

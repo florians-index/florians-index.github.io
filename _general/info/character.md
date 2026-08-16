@@ -27,7 +27,7 @@ These characters can take damage, *however they are able to use all of the incre
 
 This means you can pick your favorite to use for practice, ILs, comparisons, or full-game runs. How wonderful!
 
-(Technically, the Toad characters hold objects one pixel lower than the human characters, but this has zero impact on gameplay as far as we are currently aware.)
+(Technically, the Toad characters hold objects one pixel lower than the human characters, but this has zero relevant impact on gameplay as far as we are currently aware.)
 
 ## Easy Mode Characters
 

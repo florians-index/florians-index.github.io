@@ -25,6 +25,8 @@ After that, you will lose more and more time depending on how high you grabbed i
 - Incredible: +39F (~0.65s)
 - Wonderful: +69F (~1.15s)
 
+Pole grabs are based on character height, so elephant form will lose less time for a wonderful flag grab compared to small normal characters.
+
 It is important to note that **getting the gold flag in every level is REQUIRED in 100% categories, so you should obviously be prioritizing Wonderful ratings.** However, you only need to do so *once* per level, so for levels that have multiple exits (e.g. Piranha Plants on Parade), you should grab the top for one exit, and then the bottom for the other.
 
 While we currently do not have exact measurements for where each rating is, you can use this image as a reference for how high you can grab the flagpole and still lose no time. As long as you aim anywhere in the bottom third, you are good to go!
