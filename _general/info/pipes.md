@@ -9,13 +9,23 @@ permalink: /pipes
 
 Entering warp pipes might seem like something not worth bringing up, but there is a bit more nuance to it than you may think.
 
-For horizontal pipes... yeah, there's not much going on here. Come in one side, come out the other. If you are able to execute a **pipe kick** (wall kick after leaving a floating horizontal pipe), then you should do so, however with Jet Run it makes a very minimal difference.
+#### Horizontal Pipes
+
+For horizontal pipes... yeah, there's not much going on here. There's only one way to enter these pipes, so it's self explanatory. 
+
+If you are able to execute a **pipe kick** (wall kick after leaving a floating horizontal pipe), then you should do so, as that lets you start accelerating quicker instead of waiting to fall down to the ground.
+
+However, with the Jet Run badge, while it *is* also faster to do pipe kicks when applicable, they don't save nearly as much time. A perfect pipe kick will save **0.1s (6F)** over just landing normally, so for beginners this is not necessary to do.
+
+#### Vertical Pipes
 
 On the other hand. **vertical pipes require slightly more thought.** The reason you can do this is because *you can enter a vertical pipe in two different ways:
 - Pressing crouch on top of a pipe
 - Ground pounding into a pipe
 
 Despite the animation of starting it up, ***ground pounding into vertical pipes IS faster than crouching on top of them***.
+
+In fact, even if you land on a pipe without a ground pound, **it is STILL faster to immediately jump and ground pound than to enter the pipe normally.**
 
 This is especially important in Elephant form, where the normal pipe animation is slower.
 
