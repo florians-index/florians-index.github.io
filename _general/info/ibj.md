@@ -40,7 +40,7 @@ Below is a video demonstrating different IBJ chains with both no badge and Jet R
   width="560"
   height="315"
   src="https://www.youtube.com/embed/6VfWz-Gt6CE"
-  title="Speedrun demonstration"
+  title="IBJs"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
