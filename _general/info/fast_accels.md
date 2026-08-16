@@ -30,6 +30,18 @@ For Jet Run, this technique is completely useless, as one of the benefits of the
 
 For Fast Dash, however, **fast accels make a considerable difference, saving 0.11-0.16s per acceleration with average execution.** If you plan to run Any%, No Major Glitches with the Fast Dash route, or some specific ILs, getting this trick down is essential to shattering your PBs. 
 
+You can watch this video tutorial by *Smudey* that explains fast accelerations and easy ways to input it.
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/MPgHkxWqQq8"
+  title="Fast Accels"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
 #### TAS Accel
 
 While Jet Run can not do fast accels in the typical way, there *is* an exclusive version of a fast accel that works only with Jet Run, referred to as a **TAS Accel**.
