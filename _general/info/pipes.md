@@ -19,17 +19,19 @@ However, with the Jet Run badge, while it *is* also faster to do pipe kicks when
 
 #### Vertical Pipes
 
-On the other hand. **vertical pipes require slightly more thought.** The reason you can do this is because you can enter a vertical pipe in *two* different ways:
+On the other hand. **vertical pipes** (specifically downward) **require slightly more thought.** The reason you can do this is because you can enter a downward pipe in *two* different ways:
 - Pressing crouch on top of a pipe
 - Ground pounding into a pipe
 
-Despite the animation of starting it up, ***ground pounding into vertical pipes IS faster than crouching on top of them***.
+Despite the animation of starting it up, ***ground pounding into downward pipes IS faster than crouching on top of them***.
 
-In fact, even if you land on a pipe without a ground pound, **it is STILL faster to immediately jump and ground pound than to enter the pipe normally.**
+Ideally, you want to jump *before* reaching the pipe and ground pound when you are finally above it, to avoid having to jump on top of the pipe.
 
-This is especially important in Elephant form, where the normal pipe animation is slower.
+However, even if you land on the pipe without a ground pound (worst case scenario), **it is STILL faster to immediately jump and ground pound than to enter the pipe normally.**
 
-Below is a loose comparison showcasing the differences between the two.
+This is especially important in Elephant form, where the normal pipe animation is slower than normal.
+
+Below is a comparison showcasing the difference between ground pound entry *with worst case scenario* and normal entry.
 
 <video controls width="100%">
   <source src="{{ '/assets/videos/pipecomp.mp4' | relative_url }}" type="video/mp4">
