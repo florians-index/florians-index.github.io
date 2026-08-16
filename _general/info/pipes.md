@@ -19,7 +19,7 @@ However, with the Jet Run badge, while it *is* also faster to do pipe kicks when
 
 #### Vertical Pipes
 
-On the other hand. **vertical pipes require slightly more thought.** The reason you can do this is because *you can enter a vertical pipe in two different ways:
+On the other hand. **vertical pipes require slightly more thought.** The reason you can do this is because you can enter a vertical pipe in *two* different ways:
 - Pressing crouch on top of a pipe
 - Ground pounding into a pipe
 
