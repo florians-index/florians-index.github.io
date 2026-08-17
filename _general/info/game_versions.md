@@ -42,7 +42,7 @@ For starters, we have S2E exclusive categories on speedrun.com, including:
 - [100% Switch 2 Edition](https://www.speedrun.com/smbw?h=100-switch-2-edition-decorations&x=02q175jd-0nwdmp08.qj7rm4eq) (normal 100% requirements + completing Bellabel Park, with variables to include Decorations or not)
 - Toad Brigade Missions and Koopaling fights on [our IL leaderboard](https://www.speedrun.com/smbw/levels)
 
-As for the main 3 Switch 1 Edition categories...
+As for the main 3 [Switch 1 Edition categories](https://notcodek.github.io/TestProjectWonderTut/categories)...
 - **Any% is impossible** due to Overworld Out-of-Bounds being patched out
 - Any% No Major Glitches *can be done*, however is much slower to do so, as **some cutscenes have added voice acting that cannot be mashed through, along with a forced Koopaling encounter in World 1**
 - 100% is in the same boat for similar reasons as NMG, however the issue is even worse as **Rosalina adds an extra 12 standees to the count, making the run even more unforgiving**
