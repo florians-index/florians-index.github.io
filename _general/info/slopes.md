@@ -74,7 +74,7 @@ Mechnically, Fast Dash and no speed badge work very similar in this discussion. 
 
 However, Fast Dash users are able to utilize another *functionally* exclusive trick known as **slope boosts**.
 
-A slope boost is very similar to a [fast acceleration](https://notcodek.github.io/TestProjectWonderTut/fast_accels) except it is done on a short steep slope to give a slight speed boost.
+A slope boost is very similar to a [fast acceleration](https://florians-index.github.io/fast_accels) except it is done on a short steep slope to give a slight speed boost.
 
 You can watch this video explanation by *Smudey* for more details.
 

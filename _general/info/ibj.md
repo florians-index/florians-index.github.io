@@ -7,7 +7,7 @@ permalink: /ibj
 ---
 # Infinite Bubble Jumps
 
-As mentioned in our [power-up explanation page](https://notcodek.github.io/TestProjectWonderTut/powerups), the Bubble Flower power-up is extremely useful for saving time in SMBW. 
+As mentioned in our [power-up explanation page](https://florians-index.github.io/powerups), the Bubble Flower power-up is extremely useful for saving time in SMBW. 
 
 Perhaps the most broken ability of the Bubble Flower is the ability to **infinitely chain bubble jumps together to reach unlimited horizontal and vertical distances**. This technique is referred to as a ***Infinite Bubble Jump, or IBJ.***
 
@@ -50,7 +50,7 @@ Below is a video demonstrating different IBJ chains with both no badge and Jet R
 
 #### Bubble Ladder
 
-A bubble ladder is very similar in concept to an IBJ, however the purpose is to gain much more vertical distance than horizontal. This can be done using the **Boosting Spin Jump** badge, and is utilized during the [Bowser fight to save a lot of time](https://notcodek.github.io/TestProjectWonderTut/bowser).
+A bubble ladder is very similar in concept to an IBJ, however the purpose is to gain much more vertical distance than horizontal. This can be done using the **Boosting Spin Jump** badge, and is utilized during the [Bowser fight to save a lot of time](https://florians-index.github.io/bowser).
 
 The inputs are exactly the same as an IBJ except you want to *alternate your direction after each bubble jump.*
 

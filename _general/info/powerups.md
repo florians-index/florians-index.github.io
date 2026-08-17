@@ -46,7 +46,7 @@ The Bubble Flower is first introduced in the level *Blewbird Roost* in Petal Isl
 The power-up allows you to shoot bubbles by pressing the run button which can be used to defeat enemies as well as bounce off those bubbles to reach farther distances. You also summon two bubbles when you spin jump with this power-up, similar to the Fire and Ice Flower in other 2D Mario games.
 #### Infinite Bubble Jumps
 
-With the Bubble Flower, you are able to infinitely jump on bubbles by timing your bubble shots in a specific way. This is extremely important to master, so important that we decided to [give it a page all to itself](https://notcodek.github.io/TestProjectWonderTut/ibj).
+With the Bubble Flower, you are able to infinitely jump on bubbles by timing your bubble shots in a specific way. This is extremely important to master, so important that we decided to [give it a page all to itself](https://florians-index.github.io/ibj).
 
 #### Bubble Boosted Jumps
 
