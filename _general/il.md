@@ -31,7 +31,8 @@ We have a list of important restrictions you should keep in mind if you plan to 
 
 For the rest of the levels, here is how to retime your ILs:
 
-***Start Frame***: First frame when the loading circle has completely vanished.
+#### Start Frame
+First frame when the loading circle has completely vanished.
 
 For example, this is the frame **before** timing starts:
 
@@ -41,7 +42,8 @@ Below is the correct start frame:
 
 ![]({{ '/assets/images/ilstartcorrect.png' | relative_url }})
 
-***End Frame***: First frame when the screen has turned black from the loading circle after completing a level.
+#### End Frame
+First frame when the screen has turned black from the loading circle after completing a level.
 
 For example, this is the frame **before** timing ends:
 
@@ -51,7 +53,7 @@ For example, this is the frame **before** timing ends:
 
 This is the correct end frame:
 
-![]({{ '/assets/images/ilendgame.png' | relative_url }})
+![]({{ '/assets/images/ilendcorrect.png' | relative_url }})
 
 ***This is why it is very important to record your ILs in 60fps if possible, so they can be retimed properly. 30fps can make it harder/impossible to tell the proper start and end frame.***
 
