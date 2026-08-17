@@ -25,13 +25,17 @@ The first one is done right after leaving World 3, in **Jewel Block Cave.** You 
 
 So, we can avoid swapping power-ups unnecessarily by executing a Reserve Cancel upon collecting the first Drill Mushroom of the level, giving us the proper power-up state that we want for the next part of the run.
 
-(insert clip here)
+<video controls width="100%">
+  <source src="{{ '/assets/videos/jbcreserve.mp4' | relative_url }}" type="video/mp4">
+</video>
 
 The second time it is used is for the most optimal cycle in **Search Party: Item Park**. This level requires use of all 3 useful power-ups throughout the run to collect each Wonder Token, but we want to end this level with both Bubble Flower and Drill Mushroom, as Elephant is the least useful out of these for saving time in World 6.
 
 The optimal Item Park cycle starts with obtaining the Elephant Fruit, grabbing the Wonder Token that requires swiping the spike ball with your trunk, and then immediately swapping to Drill using a Reserve Cancel just like in Jewel Block Cave to complete the rest of the level.
 
-(insert clip here)
+<video controls width="100%">
+  <source src="{{ '/assets/videos/itemparkreserve.mp4' | relative_url }}" type="video/mp4">
+</video>
 
 ## 100%
 
