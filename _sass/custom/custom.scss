@@ -56,3 +56,13 @@ a:focus {
 
   text-decoration: none;
 }
+
+.site-title .site-logo {
+  background-image: url("/assets/images/logo.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+
+  width: 250px;
+  height: 60px;
+}
